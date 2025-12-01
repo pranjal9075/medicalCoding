@@ -2,7 +2,7 @@
 import React from "react";
 import { assets } from "../src/assets/assets";
 
-const PopupForm = ({ isOpen, onClose }) => {
+const PopupForm1 = ({ isOpen, onClose }) => {
   if (!isOpen) return null;
 
   return (
@@ -98,4 +98,4 @@ const PopupForm = ({ isOpen, onClose }) => {
   );
 };
 
-export default PopupForm;
+export default PopupForm1;

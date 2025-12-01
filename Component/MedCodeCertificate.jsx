@@ -1,7 +1,7 @@
 import React from "react";
 import { assets } from "../src/assets/assets";
 
-export default function MedicalCoddingCertificate() {
+export default function MedCodeCertificate() {
   return (
     <section className="w-full bg-[#2b2133] text-white" id="targetdiv">
 
@@ -11,7 +11,7 @@ export default function MedicalCoddingCertificate() {
         {/* Left: Heading */}
         <div className="flex-1 text-center md:text-left">
           <h1 className="text-3xl md:text-4xl font-bold leading-snug">
-            Henry Harvin<sup className="align-super">®</sup>
+            medcode.tech<sup className="align-super">®</sup>
             <br />
             Ranks #1 for
             <br />
@@ -19,9 +19,7 @@ export default function MedicalCoddingCertificate() {
             <br />
             Course in India
             <br />
-            <span className="text-xl md:text-2xl font-medium">
-              by The Tribune
-            </span>
+            
           </h1>
         </div>
 
@@ -53,7 +51,7 @@ export default function MedicalCoddingCertificate() {
                 />
               </div>
 
-              <button className="w-full bg-[#4b2b78] text-white py-3 rounded-lg font-semibold hover:bg-blue-400 cursor-pointer">
+              <button className="w-full bg-[#4b2b78] text-white py-3 rounded-lg font-semibold hover:bg-blue-900 cursor-pointer">
                 SUBMIT »
               </button>
             </form>

@@ -25,33 +25,33 @@ const AccordionSection = () => {
           <li><strong>Training:</strong> 90 Hours of Two-way Live Interactive Sessions</li>
           <li><strong>Projects:</strong> HCPCS, ICD-10 CM, CPT & more practical tasks</li>
           <li><strong>Internship:</strong> Complete internship assistance provided</li>
-          <li><strong>Certification: </strong>Get Course Completion Certification of Medical Coding Training from Henry Harvin® Govt of India recognized & Award-Winning Institute, and showcase expertise</li>
+          <li><strong>Certification: </strong>Get Course Completion Certification of Medical Coding Training from medcode.tech® Govt of India recognized & Award-Winning Institute, and showcase expertise</li>
           <li><strong>Placement: </strong>100% Placement Guarantee Support for 1-Year post successful completion</li>
           <li><strong>E-Learning: </strong>Access to Abundant Tools and Techniques, video content, assessments, and more</li>
           <li><strong>Masterclass: </strong>Access to 52+ Masterclass Sessions for essential soft skill development</li>
-          <li><strong>Hackathons: </strong>Free Access to #AskHenry Hackathons and Competitions</li>
-          <li><strong>Membership:</strong> Get 1-Year Gold Membership of Henry Harvin® Writing Academy for the Medical Coding Course</li>
+          <li><strong>Hackathons: </strong>Free Access to #Askmedcode.tech Hackathons and Competitions</li>
+          <li><strong>Membership:</strong> Get 1-Year Gold Membership of medcode.tech® Writing Academy for the Medical Coding Course</li>
         </ul>
 
-        <h3 className="text-xl font-semibold mb-2">Trainers at Henry Harvin®</h3>
+        <h3 className="text-xl font-semibold mb-2">Trainers at medcode.tech®</h3>
 
         <ul className="list-disc ml-6 space-y-2 mb-5">
             <li>Most respected industry experts with <strong>15+ years of working experience</strong></li>
             <li>Carefully selected by our training partners and<strong>recognized by numerous organizations</strong>over the years for their work</li>
             <li>Have been invited for <strong>150+ keynote</strong> classes for Medical Coding Course</li>
-            <li>Have delivered <strong>350+ lectures </strong>and are currently empaneled as domain experts with Henry Harvin® Medical Academy</li>
+            <li>Have delivered <strong>350+ lectures </strong>and are currently empaneled as domain experts with medcode.tech® Medical Academy</li>
         </ul>
 
         <h3 className="text-xl font-semibold mb-2">Alumni Status</h3>
-        <p className="mb-5 space-y-2">Become a part of the Elite Medical Academy of Henry Harvin® join the 4,60,000+ strong Alumni Network Worldwide</p>
+        <p className="mb-5 space-y-2">Become a part of the Elite Medical Academy of medcode.tech® join the 4,60,000+ strong Alumni Network Worldwide</p>
 
         <h3 className="text-xl font-semibold mb-2">Gold Membership Benefits</h3>
 
         <ul className="list-disc ml-6 space-y-2">
-            <li>Avail 1-Year Gold Membership of Henry Harvin®️ Medical Academy that includes E-Learning Access through recorded Videos, Games, Projects, CPDSPe Studies</li>
+            <li>Avail 1-Year Gold Membership of medcode.tech®️ Medical Academy that includes E-Learning Access through recorded Videos, Games, Projects, CPDSPe Studies</li>
             <li>Access to Masterclass Sessions</li>
-            <li>Earn the Prestigious Henry Harvin®️ Alumni Status and become one of the reputed 4,60,000+ Alumni across the globe</li>
-            <li>Guaranteed Internship with Henry Harvin®️ or partner firms</li>
+            <li>Earn the Prestigious medcode.tech®️ Alumni Status and become one of the reputed 4,60,000+ Alumni across the globe</li>
+            <li>Guaranteed Internship with medcode.tech®️ or partner firms</li>
             <li>Weekly 10+ job opportunities offered</li>
             <li>Experience Industry Projects during the training</li>
         </ul>
@@ -69,7 +69,7 @@ const AccordionSection = () => {
             <li>Gain extensive knowledge of V-codes, E Codes, and ICD-10-CM Coding Practicum</li>
         </ul>
         
-        <h3 className="text-xl font-semibold mb-2">Recognitions of Henry Harvin® Education</h3>
+        <h3 className="text-xl font-semibold mb-2">Recognitions of medcode.tech® Education</h3>
 
         <ul className="list-disc ml-6 space-y-2 mb-5">
             <li>Winner of Top Corporate Training Award, Game-Based Learning Company of the under 40 Business World Award</li>

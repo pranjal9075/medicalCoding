@@ -1,22 +1,7 @@
 import React, { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import { programs } from "../src/assets/assets";
-
-const program = [
-  {
-    subtitle: "you get nine",
-    title: "Gold Membership",
-    desc: "1 Year Gold Membership of Henry Harvin® Academy & Attend Unlimited Live Sessions and Batch Access",
-    color: "bg-[#FBE8A6]",
-  },
-  {
-    subtitle: "you get ten",
-    title: "Entrepreneurship Mentorship",
-    desc: "Get guided mentorship and personalized career support from experts.",
-    color: "bg-[#A6E9C4]",
-  },
-];
+import { programs,program } from "../src/assets/assets";
 
 const Program10in1 = () => {
   useEffect(() => {

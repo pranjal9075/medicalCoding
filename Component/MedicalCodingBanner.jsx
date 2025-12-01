@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { assets } from "../src/assets/assets";
 
+
 const MedicalCodingBanner = () => {
   const logoes = [
     assets.logoImg1,
@@ -59,12 +60,6 @@ const MedicalCodingBanner = () => {
             <li>• AAPC CPC Exam Assistance</li>
             <li>• Earn the prestigious ICD-10 CM Coding Certification</li>
           </ul>
-
-          <div className="md:flex mt-5 ">
-            <h1 className="text-xl font-playfair font-bold">Forbes</h1>
-            <p className="mt-1">features Henry Harvin
-            4.8/5</p>
-          </div>
 
           <div className="mt-8">
             <p className="font-semibold text-yellow-600 text-lg">

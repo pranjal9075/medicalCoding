@@ -9,17 +9,17 @@ const steps = [
   {
     num: "2",
     title: "Complete the Medical Coding Course",
-    desc: "Attend 90 hours sessions and gain 90 credits to get course completion certification from Henry Harvin® Medical Academy",
+    desc: "Attend 90 hours sessions and gain 90 credits to get course completion certification from medcode.tech® Medical Academy",
   },
   {
     num: "3",
     title: "Deliver Projects Assigned",
-    desc: "Gather experience with real-world assignments and practical projects to upgrade your existing skills. Deliver these mini-projects to be eligible for Henry Harvin® Medical Coding Course",
+    desc: "Gather experience with real-world assignments and practical projects to upgrade your existing skills. Deliver these mini-projects to be eligible for medcode.tech® Medical Coding Course",
   },
   {
     num: "4",
     title: "Earn Certification",
-    desc: "Post-successful completion of the course, earn Henry Harvin® Medical Coding Training Certification. Post it on social media, get it framed, and increase your value in the industry",
+    desc: "Post-successful completion of the course, earn medcode.tech® Medical Coding Training Certification. Post it on social media, get it framed, and increase your value in the industry",
   },
 ];
 

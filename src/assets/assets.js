@@ -23,21 +23,21 @@ import award1 from './award1.webp';
 import award2 from './award2.webp';
 import award3 from './award3.webp';
 import award4 from './award4.webp';
-import Divya from './Divya.jpg';
-import Srikanth from './Srikanth.jpg';
-import Anamika from './Anamika.jpg';
-import Pal from './Pal.jpg';
+import lekharajSir from './lekharajSir.jpeg';
+import AditiMam from './AditiMam.jpeg';
+import BhagyashreeMam from './BhagyashreeMam.jpeg';
+import VaibhavSir from './VaibhavSir.jpeg';
 import certificate from './certificate.png';
-import asiaImg from './asiaImg.png';
-import unitedImg from './unitedImg.webp';
-import americaImg  from './americaImg.png';
-import eastImg from './eastImg.png';
 import topIcon from './topIcon.png';
 import formLogo from './formLogo.png';
 import AI_robot from './AI_robot.jpg';
 import Market_trend from './Market_trend.jpg';
 import coding_Img from './coding_Img.jpg';
 import silverMedal from './silverMedal.png';
+import instagramImg from './instagramImg.png';
+import WhatsAppImg1 from './WhatsAppImg1.png';
+import phoneIcon from './phoneIcon.png';
+import mapIcon from './mapIcon.png';
 
 export const assets={
     logoIcon,
@@ -65,21 +65,22 @@ export const assets={
     award2,
     award3,
     award4,
-    Divya,
-    Anamika,
-    Srikanth,
-    Pal,
+    lekharajSir,
+    BhagyashreeMam,
+    AditiMam,
+    VaibhavSir,
     certificate,
-    asiaImg,
-    eastImg,
-    unitedImg,
-    americaImg,
     topIcon,
     formLogo,
     AI_robot,
     Market_trend,
     coding_Img,
     silverMedal,
+    instagramImg,
+    WhatsAppImg1,
+    phoneIcon,
+    mapIcon
+
 }
 
 
@@ -123,7 +124,7 @@ export const programs = [
     color: "bg-[#F8B8A0]",
     title: "Student Engagement & Events",
     subtitle: "you get six",
-    desc: "Access to all #AskHenry Hackathons",
+    desc: "Access to all #Ask medcode.tech Hackathons",
     img: assets.program6,
   },
   {
@@ -140,5 +141,19 @@ export const programs = [
     desc: "Premium Access to Globally Renowned Moodle E-Learning Portal used by 2900+ Organizations",
     img: assets.program8,
   },
+  ];
+  export const program = [
+    {
+      subtitle: "you get nine",
+      title: "Gold Membership",
+      desc: "1 Year Gold Membership of medcode.tech® Academy & Attend Unlimited Live Sessions and Batch Access",
+      color: "bg-[#FBE8A6]",
+    },
+    {
+      subtitle: "you get ten",
+      title: "Entrepreneurship Mentorship",
+      desc: "Get guided mentorship and personalized career support from experts.",
+      color: "bg-[#A6E9C4]",
+    },
+  ];
   // Add more if needed up to 10
-];

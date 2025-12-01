@@ -8,7 +8,7 @@ const features = [
   { title: "Flexible Schedule", icon: "⏰", bg: "bg-pink-200" },
   { title: "Access to the Recorded Sessions", icon: "💼", bg: "bg-teal-200" },
   { title: "10 in 1 Program", icon: "📣", bg: "bg-yellow-200" },
-  { title: "Masterclasses By Henry Harvin®", icon: "📊", bg: "bg-lime-200" },
+  { title: "Masterclasses By medcode.tech®", icon: "📊", bg: "bg-lime-200" },
   { title: "One-to-One Training", icon: "👤", bg: "bg-purple-200" },
 ];
 

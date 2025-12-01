@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { assets } from "../src/assets/assets";
-import PopupForm from "./Popupform";
+import PopupForm from "./PopupForm";
 
 
 const TopBar = () => {
@@ -50,19 +50,19 @@ const TopBar = () => {
           <div className="hidden md:flex flex-col items-center justify-center text-center justify-self-center font-medium">
 
             <div className="flex flex-wrap justify-center gap-x-3 gap-y-1 text-[13px] text-gray-700">
-              <span>460,000+ Trained</span>
+              <span>41,000+ Trained</span>
               <span>|</span>
-              <span>6,700+ Reviews</span>
+              <span>5,600+ Reviews</span>
               <span>|</span>
-              <span>7,000+ Live Classes Every Month</span>
+              <span>4,000+ Live Classes Every Month</span>
             </div>
 
             <div className="flex flex-wrap justify-center gap-x-3 gap-y-1 text-[13px] text-gray-700 leading-tight mt-1">
-              <span>210+ Corporate Partners</span>
+              <span>302+ Corporate Partners</span>
               <span>|</span>
               <span>180+ College Partners</span>
               <span>|</span>
-              <span>93% Reported Career Benefits</span>
+              <span>96% Reported Career Benefits</span>
             </div>
           </div>
 
