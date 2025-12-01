@@ -86,9 +86,12 @@ const Footer = () => {
   <div className="flex flex-row w-full">
 
     {/* Left (Green Section) */}
-    <div className="bg-green-600 text-white flex-1 flex items-center justify-center gap-2 py-3 text-sm font-medium border border-black cursor-pointer">
-      +91 9075799816
-    </div>
+   <a
+  href="tel:+919545450788"
+  className="bg-green-600 text-white flex-1 flex items-center justify-center gap-2 py-3 text-sm font-medium border border-black"
+>
+  +91 9545450788
+ </a>
 
     {/* Right (Yellow Section) */}
     <div className="bg-yellow-400 text-black flex-1 flex items-center justify-center py-3 text-sms font-semibold border border-black cursor-pointer" onClick={handleScroll}>
