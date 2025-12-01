@@ -87,7 +87,7 @@ const Footer = () => {
 
     {/* Left (Green Section) */}
     <div className="bg-green-600 text-white flex-1 flex items-center justify-center gap-2 py-3 text-sm font-medium border border-black cursor-pointer">
-      +91 9899577620
+      +91 9075799816
     </div>
 
     {/* Right (Yellow Section) */}
