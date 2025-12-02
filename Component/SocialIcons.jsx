@@ -10,7 +10,7 @@ const SocialIcons = () => {
 
       {/* WhatsApp Icon */}
       <a 
-        href="https://wa.me/1234567890" 
+        href="https://wa.me/9545450788" 
         target="_blank" 
         rel="noopener noreferrer"
       >
