@@ -40,8 +40,10 @@ export default function MedCodeCertificate() {
 
               <div className="flex gap-3 flex-wrap">
                 <select className="min-w-[110px] px-3 py-3 rounded-lg border border-gray-200">
-                  <option>India (+91)</option>
-                  <option>USA (+1)</option>
+                  <option value="+91">India +91</option>
+                  <option value="+1">USA +1</option>
+                  <option value="+44">UK +44</option>
+                  <option value="+81">Japan +81</option>
                 </select>
 
                 <input
