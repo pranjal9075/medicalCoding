@@ -30,7 +30,7 @@ const TopBar = () => {
 
           {/* LEFT */}
           <div
-            className="flex items-center md:gap-3 shrink-0 cursor-pointer"
+            className="flex items-center md:gap-3 shrink-0 cursor-pointer gap-6"
             onClick={handleScroll}
           >
             <img
