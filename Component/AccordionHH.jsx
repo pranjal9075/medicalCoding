@@ -146,6 +146,170 @@ const faqs = [
     q:"Q4. How much do medical coding courses in Pune cost?",
     a:"Medical coding course fees are about INR 60000. Contact WebCode to get more details. The experts here have years of experience in teaching medical coding. You will have a great future with WebCode after finishing the course.",
   },
+  {
+    q:"Can I take a course to get my medical coding certification done online?",
+    a:"Medical coding courses may be studied online at medcode.tech, where the sessions are conducted interactively.",
+  },
+  {
+    q:"How satisfying would you find the salary of a medical coder to be?",
+    a:"An average yearly pay of 3.0 Lakhs is earned by medical coders in India, with a range of 1.4 Lakhs to 4.7 Lakhs.",
+  },
+  {
+    q:"What should I do if I have questions about medical coding training that need answering?",
+    a:"Instructors at medcode.tech typically offer the chance to address any remaining questions or concerns as a follow-up to specific training sessions.",
+  },
+  {
+    q:"Does Medical Coding Training Have Any Standards?",
+    a:"Medical coding education is measured against the Certified Professional Coder (CPC) standard.",
+  },
+  {
+    q:"What role does medical coding course play in the healthcare industry?",
+    a:"Using a universal medical alphanumeric code, medical coding assigns a unique number code to each medical diagnosis, operation, medical service, and medical gadget. Patients' information, insurance claims for third-party providers, and illness, treatment, etc. tracking all rely on these codes. Not just patients dependent on this report; doctors do, too.",
+  },
+  {
+    q:"How long does the Medical Coding course last per medcode.tech's curriculum?",
+    a:"Medical Coding Training takes ninety hours to finish a medical coding course.",
+  },
+  {
+    q:"Does the Medical Coding course require computer knowledge?",
+    a:"Knowledge of computers is helpful but is optional.Each potential employee receives instruction on how to use the various medical programs.A firm grasp of the fundamentals is a major plus for getting the job done.",
+  },
+  {
+    q:"Does the medical coding program include job placement services?",
+    a:"Institutions like medcode.tech provide placement from renowned firms when students finish their medical coding courses.",
+  },
+  {
+    q:"Is there any prerequisite work for medical coding classes?",
+    a:"Medical coding is an open field that welcomes students of all skill levels.",
+  },
+  {
+    q:"To what extent does one need to be eligible for medical coding?",
+    a:"You will only be considered if you have a bachelor's degree in healthcare or a related life science field. It's common for medical coders to come from a variety of educational backgrounds.",
+  },
+  {
+    q:"How should I choose the medical coding course, and what are the advantages?",
+    a:"Nowadays, medical coding is among the fastest-growing occupations. There is a growing demand for competent personnel in this industry, fueled in part by an older population that has piqued the interest of many people looking for work-from-home or telecommuting opportunities. After learning about medical coding and deciding that this is their profession, the next step is getting the training they need to succeed.",
+  },
+  {
+    q:"Do you need help learning medical coding?",
+    a:"The most challenging aspect of medical coding is learning and correctly applying thousands of codes. Join recognized training programs like medcode.tech and pass the necessary exams to become a certified medical coder.",
+  },
+  {
+    q:"Why is it so important to accurately code medical records?",
+    a:"The medical health sector is beginning to devote much time and energy to medical coding, a relatively new healthcare professional.",
+  },
+  {
+    q:"Can a total newbie to the medical coding course finish medcode.tech's course on the subject in a reasonable amount of time?",
+    a:"Due to the interactive sessions and best course structure, the medcode.tech course can be completed quickly.",
+  },
+  {
+    q:"If a working professional is interested in taking a medical coding course, are there any options for scheduling?",
+    a:"medcode.tech does provide flexible scheduling, including online and weekend classes, for busy professionals.",
+  },
+  {
+    q:"When the training is finished, can we review what we've learned?",
+    a:"Applicants get access to our Learning Management System (LMS) for up to one year after the conclusion of the course at no additional cost for review and updates in any of our centers in India, or they may receive answers to their concerns at any time through our 24/7 online help desk.",
+  },
+  {
+    q:"Do the medical coding programs offer placement help for their students?",
+    a:"The institution does provide placement from renowned firms when students finish their medical coding training.",
+  },
+  {
+    q:"Is there any prerequisite work for medical coding classes?",
+    a:"Medical coding is an open field that welcomes students of all skill levels.",
+  },
+  {
+    q:"How much money can you expect to make working as a medical coder?",
+    a:"Average yearly pay of 3.0 Lakhs is earned by medical coders in India, with a range of 1.4 Lakhs to 4.7 Lakhs.",
+  },
+  {
+    q:"What language do medical coders often use?",
+    a:"The CPT terminology is the most widely used medical vocabulary in the United States for reporting evaluation and management (E/M), evaluation and management (E/M), surgery, radiology, laboratory, anesthesiology, genomic sequencing, and other services under public and private health insurance programs.",
+  },
+  {
+    q:"In what ways does medcode.tech provide verified certificates for medical coding courses?",
+    a:"A certificate of completion will be issued once all training requirements (quizzes, homework, and projects) have been met. ",
+  },
+  {
+    q:"When can I get medical coding training courses online?",
+    a:"To answer your question, the school approves distance education for its medical coding programs.",
+  },
+  {
+    q:"Which three categories of medical coding exist?",
+    a:"Coding professionals use ICD to assign one of three medical codes. The International Statistical Classification of Diseases (ICD) codes are the most well-known medical codes. Most doctor-performed medical treatments are documented using CPT, or Current Procedure Terminology and codes, instead of HCPCS, used for hospital-performed operations.",
+  },
+  {
+    q:"Do you provide extra support sessions if students have issues or require clarification on the course material?",
+    a:"Send a ticket to medcode.tech's dedicated support staff anytime you need help, and they'll get back to you as soon as possible with an answer. However, the course's interactive sessions include opportunities for one-on-one time with an instructor.",
+  },
+  {
+    q:"Is it true that medical coding is a type of information technology work?",
+    a:"A lifetime of guaranteed employment is only one of the many benefits of a career in medical coding.",
+  },
+  {
+    q:"How do I get answers to my questions about medical coding education?",
+    a:"After a training session is over, participants are allowed to ask questions.",
+  },
+  {
+    q:"Do you need help taking our medical coding classes?",
+    a:"However, the training will become more familiar after you learn basic coding approaches and procedures.",
+  },
+  {
+    q:"Can I switch back and forth between independent study and traditional classroom learning?",
+    a:"If you wish to upgrade from self-paced to online instructor-led education, you won't have to spend much more. You will be added to the next available group as soon as possible.",
+  },
+  {
+    q:"Can the medcode.tech placement support team assist you in locating employment opportunities?",
+    a:"medcode.tech provides students who have completed their program with passive and proactive placement help. In this regard, we've partnered exclusively with over 80 of the most illustrious global firms globally.",
+  },
+  {
+    q:"How long do medical coding courses typically run?",
+    a:"The courses offered by the medcode.tech Institute can be completed in as little as six months",
+  },
+  {
+    q:"Can I get internship experience if I take a course in medical coding?",
+    a:"Internships and using the institute's project space are two ways students can get real-world experience.",
+  },
+  {
+    q:"Is there a difference in value between medical coding courses and those that focus on more conventional advertising techniques?",
+    a:"Students who take classes may get valuable market knowledge. Throughout the training, instructors consistently use examples from the actual world to verify that their pupils absorb the material.",
+  },
+  {
+    q:"While enrolling in Medical Coding Courses, what kind of resources can I anticipate receiving for study?",
+    a:"Students must sign up for a class and log into the learning management system to access the course texts.",
+  },
+  {
+    q:"Can you study medical coding courses over the internet?",
+    a:"Several city residents enroll in the class for ease of access to the online lectures. Students who cannot attend the live sessions can still benefit from the instruction by watching the recorded versions. Online medical coding courses, however, provide additional benefits.",
+  },
+  {
+    q:"Is it a good idea to go into medical coding?",
+    a:"Those who graduated from college and majored in this field have an excellent chance of finding employment with a reputable firm.",
+  },
+  {
+    q:"How many different sections are there in the medical coding training program?",
+    a:"medcode.tech's Medical Coding Course consists of 26 separate lessons.",
+  },
+  {
+    q:"Can I take a course in medical coding after I graduate?",
+    a:"A certificate program in medical coding is available to recent grads. This is the place to be if you want to make a name for yourself in this particular field of medicine",
+  },
+  {
+    q:"Does this course provide good practice for the CPC Exam?",
+    a:"Absolutely, the goal of the course is to help students be ready for the CPC test. Projects and real-world tasks are also great ways to get some practical experience.",
+  },
+  {
+    q:"What is Medical Coding?",
+    a:"Medical Coding is the process of extracting medical information from a patient’s medical records. This information is then converted into universally accepted medical codes for reference by doctors at the time of diagnosis and treatment. Insurance companies also use this information to validate insurance claims. Even governments find this information handy while formulating health policies.",
+  },
+  {
+    q:"Is medical coding a difficult field?",
+    a:"Working in the field of medical coding as a medical coder is not difficult. However, this job comes with many complexities and requires highly specialized skills and specialized training. Therefore, it is very important to enroll in a medical coding course at one of the best medical coding institutes in Hyderabad like medcode.tech Education.",
+  },
+  {
+    q:"Where do Medical Coders work?",
+    a:"Due to the wide variety of companies and institutions that employ medical programmers, there are countless career opportunities for medical programmers. In addition to healthcare systems, hospitals, clinics, and ambulatory surgery centers, coders are called upon in:Emergency clinics,Mental health practices,Collection agencies,Insurance companies,Professional liability companies,Federal agencies,Information technology services,Law Firms,Dental Offices,Physical therapy centers,Nursing homes,State government agencies,Vocational schools,Medical billing services,Medical laboratories, etc.",
+  }
 ];
 
 const AccordionHH = () => {
@@ -173,10 +337,16 @@ const AccordionHH = () => {
 
               {/* plus / minus icon */}
               <span className="
-                w-10 h-10 flex items-center justify-center rounded-full 
-                border-2 border-[#d7d2c5] text-[#4a4a4a] text-xl hover:border-blue-400 hover:text-blue-400
+                flex items-center justify-center
+                rounded-full aspect-square
+                border-2 border-[#d7d2c5] text-[#4a4a4a] 
+                text-lg sm:text-xl md:text-2xl
+                w-8 sm:w-10 md:w-12
+                transition-all duration-200
+                hover:border-blue-400 hover:text-blue-400
+                shrink-0
               ">
-                {openIndex === i ? "–" : "+"}
+                {openIndex === i ? "−" : "+"}
               </span>
             </div>
 

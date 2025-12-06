@@ -4,7 +4,7 @@ const Accordion = ({ title, children, bg }) => {
   const [open, setOpen] = useState(false);
 
   return (
-    <div className={`${bg} py-4 px-20`}>
+    <div className={`${bg} py-4 px-15`}>
       <div
         className="bg-purple-900 text-white px-6 py-2 cursor-pointer flex justify-between items-center"
         onClick={() => setOpen(!open)}
